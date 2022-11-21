@@ -1,4 +1,5 @@
 public class Main {
+<<<<<<< HEAD
 
     public static void main(String[] args) {
 
@@ -10,4 +11,9 @@ public class Main {
 
     }
 
+=======
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+>>>>>>> d3d35290f093ee5018bd13995c7456d4005e9d17
 }
