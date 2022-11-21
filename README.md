@@ -124,4 +124,21 @@ _Se subió correctamente pero en la rama ___master___ (la cual es en la que esta
 
 Realizo el cambio de la rama _default_ (que ahora es **main** ) a la rama **master**. 
 
-![](img/2.png)
+![Cambiando la rama default](img/2.png)
+
+
+### 6º- Elimino la rama main. 
+[_Dandole al icono de la papelera de basura._]
+
+![](img/3.png)
+
+### 7º- Creo una nueva rama para arreglar un _bug_.
+```bash
+a17ivanam@W10N-I9E20 MINGW64 /e/Ivan/ideaProjects/ejercicioGit3 (master)
+$ git checkout -b fixBug1
+Switched to a new branch 'fixBug1'
+
+a17ivanam@W10N-I9E20 MINGW64 /e/Ivan/ideaProjects/ejercicioGit3 (fixBug1)
+$
+
+```
